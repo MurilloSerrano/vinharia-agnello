@@ -59,9 +59,6 @@ section h2 {
     margin-bottom: 15px;
 }
 
-/* 4. Estilização para quando o JS rodar */
-/* Dica: como o prompt() e alert() são do navegador, 
-   o CSS foca em deixar a página de fundo bonita enquanto eles aparecem. */
 
 footer {
     margin-top: 50px;
@@ -75,3 +72,6 @@ footer {
         font-size: 2rem;
     }
 }
+
+
+/* final do arquivo */
